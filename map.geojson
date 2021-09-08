@@ -3,11 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "circle"
-      },
+      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
