@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "triangle"
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
