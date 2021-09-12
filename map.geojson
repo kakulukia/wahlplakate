@@ -385,6 +385,28 @@
           52.31452503992014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.70818555355072,
+          52.240835688576325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.749024868011475,
+          52.31436721800539
+        ]
+      }
     }
   ]
 }
